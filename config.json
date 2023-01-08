@@ -1,1 +1,206 @@
-[{"url":"https://jkbose.nic.in/pdf/ACCOUNTANCY.pdf","icon":1,"name":"Accountancy"},{"url":"https://jkbose.nic.in/pdf/Arabic.pdf","icon":2,"name":"Arabic"},{"url":"https://jkbose.nic.in/pdf/11thHINDI.pdf","icon":3,"name":"Hindi"},{"url":"https://jkbose.nic.in/pdf/APPLIEDMATHEMATICS.pdf","icon":4,"name":"Applied Math"},{"url":"https://jkbose.nic.in/pdf/BHOTI.pdf","icon":5,"name":"Bhoti"},{"url":"https://jkbose.nic.in/pdf/BIOCHEMISTRY.pdf","icon":6,"name":"Bio Chemistry"},{"url":"https://jkbose.nic.in/pdf/BIOTECHNOLOGY.pdf","icon":7,"name":"Bio Technology"},{"url":"https://jkbose.nic.in/pdf/11thBOTANY.pdf","icon":8,"name":"Botany"},{"url":"https://jkbose.nic.in/pdf/BudhistStudies.pdf","icon":9,"name":"Budhist Studies"},{"url":"https://jkbose.nic.in/pdf/BUSINESSMATHEMATICS.pdf","icon":10,"name":"Business Math"},{"url":"https://jkbose.nic.in/pdf/BUSINESSSTUDIES.pdf","icon":11,"name":"Business Studies"},{"url":"https://jkbose.nic.in/pdf/CHEMISTRY.pdf","icon":12,"name":"Chemistry"},{"url":"https://jkbose.nic.in/pdf/COMPUTERSCIENCE.pdf","icon":13,"name":"Computer Science"},{"url":"https://jkbose.nic.in/pdf/11thDogri.pdf","icon":14,"name":"Dogri"},{"url":"https://jkbose.nic.in/pdf/11thECONOMICS.pdf","icon":15,"name":"Economics"},{"url":"https://jkbose.nic.in/pdf/EDUCATION.pdf","icon":16,"name":"Education"},{"url":"https://jkbose.nic.in/pdf/Electronics.pdf","icon":17,"name":"Electronics"},{"url":"https://jkbose.nic.in/pdf/EnglishLiterature.pdf","icon":18,"name":"Eng Literature"},{"url":"https://jkbose.nic.in/pdf/11thENTREPRENEURSHIP.pdf","icon":19,"name":"Entrepreneurship"},{"url":"https://jkbose.nic.in/pdf/ENVIRONMENTALSCIENCE.pdf","icon":20,"name":"Environmental Science"},{"url":"https://jkbose.nic.in/pdf/FAMILYHEALTHCAREPREVENTION.pdf","icon":20,"name":"Family Health"},{"url":"https://jkbose.nic.in/pdf/FOODSCIENCE.pdf","icon":22,"name":"Food Science"},{"url":"https://jkbose.nic.in/pdf/FunctionalEnglish.pdf","icon":23,"name":"Functional English"},{"url":"https://jkbose.nic.in/pdf/GeneralEnglish.pdf","icon":24,"name":"General English"},{"url":"https://jkbose.nic.in/pdf/GEOGRAPHY.pdf","icon":25,"name":"Geography"},{"url":"https://jkbose.nic.in/pdf/11thGEOLOGY.pdf","icon":26,"name":"Geology"},{"url":"https://jkbose.nic.in/pdf/History.pdf","icon":27,"name":"History"},{"url":"https://jkbose.nic.in/pdf/HOMESCIENCEELECTIVE.pdf","icon":28,"name":"Home Science"},{"url":"https://jkbose.nic.in/pdf/INFORMATICSPRACTICES.pdf","icon":29,"name":"Information Practices"},{"url":"https://jkbose.nic.in/pdf/Islamic-Studies.pdf","icon":30,"name":"Islamic Studies"},{"url":"https://jkbose.nic.in/pdf/KASHMIRI11th.pdf","icon":31,"name":"Kashmiri"},{"url":"https://jkbose.nic.in/pdf/MANAGEMENTOFRESOURCES.pdf","icon":32,"name":"Management of Resources"},{"url":"https://jkbose.nic.in/pdf/Mathematics.pdf","icon":33,"name":"Math"},{"url":"https://jkbose.nic.in/pdf/MUSIC.pdf","icon":34,"name":"Music"},{"url":"https://jkbose.nic.in/pdf/PERSIAN.pdf","icon":35,"name":"Persian"},{"url":"https://jkbose.nic.in/pdf/PHILOSOPHY.pdf","icon":36,"name":"Philosophy"},{"url":"https://jkbose.nic.in/pdf/PHYSICALEDUCATION.pdf","icon":37,"name":"Physical Educaton"},{"url":"https://jkbose.nic.in/pdf/PHYSICS.pdf","icon":38,"name":"Physics"},{"url":"https://jkbose.nic.in/pdf/POLITICALSCIENCE.pdf","icon":39,"name":"Political Science"},{"url":"https://jkbose.nic.in/pdf/Psychology.pdf","icon":40,"name":"Psychology"},{"url":"https://jkbose.nic.in/pdf/PUBLICADMINISTRATION.pdf","icon":41,"name":"Public Adminstration"},{"url":"https://jkbose.nic.in/pdf/11thPunjabi.pdf","icon":42,"name":"Punjabi"},{"url":"https://jkbose.nic.in/pdf/11thSanskrit.pdf","icon":43,"name":"Sanskrit"},{"url":"https://jkbose.nic.in/pdf/SOCIOLOGY.pdf","icon":44,"name":"Sociology"},{"url":"https://jkbose.nic.in/pdf/STATISTICS.pdf","icon":45,"name":"Statistics"},{"url":"https://jkbose.nic.in/pdf/TRAVELTOURISMHOTELMANAGEMENT.pdf","icon":46,"name":"Travel \u0026 Tourism Management"},{"url":"https://jkbose.nic.in/pdf/Typewriting-and-Shorthand.pdf","icon":47,"name":"Typewriting and Shorthand"},{"url":"https://jkbose.nic.in/pdf/URDU.pdf","icon":48,"name":"Urdu"},{"url":"https://jkbose.nic.in/pdf/VedicStudies.pdf","icon":49,"name":"Vedic Studies"},{"url":"https://jkbose.nic.in/pdf/11thZOOLOGY.pdf","icon":50,"name":"Zoology"}]
+[{
+	"url": "https://jkbose.nic.in/pdf/ACCOUNTANCY.pdf",
+	"icon": 1,
+	"name": "Accountancy"
+}, {
+	"url": "https://jkbose.nic.in/pdf/Arabic.pdf",
+	"icon": 2,
+	"name": "Arabic"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thHINDI.pdf",
+	"icon": 3,
+	"name": "Hindi"
+}, {
+	"url": "https://jkbose.nic.in/pdf/APPLIEDMATHEMATICS.pdf",
+	"icon": 4,
+	"name": "Applied Math"
+}, {
+	"url": "https://jkbose.nic.in/pdf/BHOTI.pdf",
+	"icon": 5,
+	"name": "Bhoti"
+}, {
+	"url": "https://jkbose.nic.in/pdf/BIOCHEMISTRY.pdf",
+	"icon": 6,
+	"name": "Bio Chemistry"
+}, {
+	"url": "https://jkbose.nic.in/pdf/BIOTECHNOLOGY.pdf",
+	"icon": 7,
+	"name": "Bio Technology"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thBOTANY.pdf",
+	"icon": 8,
+	"name": "Botany"
+}, {
+	"url": "https://jkbose.nic.in/pdf/BudhistStudies.pdf",
+	"icon": 9,
+	"name": "Budhist Studies"
+}, {
+	"url": "https://jkbose.nic.in/pdf/BUSINESSMATHEMATICS.pdf",
+	"icon": 10,
+	"name": "Business Math"
+}, {
+	"url": "https://jkbose.nic.in/pdf/BUSINESSSTUDIES.pdf",
+	"icon": 11,
+	"name": "Business Studies"
+}, {
+	"url": "https://jkbose.nic.in/pdf/CHEMISTRY.pdf",
+	"icon": 12,
+	"name": "Chemistry"
+}, {
+	"url": "https://jkbose.nic.in/pdf/COMPUTERSCIENCE.pdf",
+	"icon": 13,
+	"name": "Computer Science"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thDogri.pdf",
+	"icon": 14,
+	"name": "Dogri"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thECONOMICS.pdf",
+	"icon": 15,
+	"name": "Economics"
+}, {
+	"url": "https://jkbose.nic.in/pdf/EDUCATION.pdf",
+	"icon": 16,
+	"name": "Education"
+}, {
+	"url": "https://jkbose.nic.in/pdf/Electronics.pdf",
+	"icon": 17,
+	"name": "Electronics"
+}, {
+	"url": "https://jkbose.nic.in/pdf/EnglishLiterature.pdf",
+	"icon": 18,
+	"name": "Eng Literature"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thENTREPRENEURSHIP.pdf",
+	"icon": 19,
+	"name": "Entrepreneurship"
+}, {
+	"url": "https://jkbose.nic.in/pdf/ENVIRONMENTALSCIENCE.pdf",
+	"icon": 20,
+	"name": "Environmental Science"
+}, {
+	"url": "https://jkbose.nic.in/pdf/FAMILYHEALTHCAREPREVENTION.pdf",
+	"icon": 20,
+	"name": "Family Health"
+}, {
+	"url": "https://jkbose.nic.in/pdf/FOODSCIENCE.pdf",
+	"icon": 22,
+	"name": "Food Science"
+}, {
+	"url": "https://jkbose.nic.in/pdf/FunctionalEnglish.pdf",
+	"icon": 23,
+	"name": "Functional English"
+}, {
+	"url": "https://jkbose.nic.in/pdf/GeneralEnglish.pdf",
+	"icon": 24,
+	"name": "General English"
+}, {
+	"url": "https://jkbose.nic.in/pdf/GEOGRAPHY.pdf",
+	"icon": 25,
+	"name": "Geography"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thGEOLOGY.pdf",
+	"icon": 26,
+	"name": "Geology"
+}, {
+	"url": "https://jkbose.nic.in/pdf/History.pdf",
+	"icon": 27,
+	"name": "History"
+}, {
+	"url": "https://jkbose.nic.in/pdf/HOMESCIENCEELECTIVE.pdf",
+	"icon": 28,
+	"name": "Home Science"
+}, {
+	"url": "https://jkbose.nic.in/pdf/INFORMATICSPRACTICES.pdf",
+	"icon": 29,
+	"name": "Information Practices"
+}, {
+	"url": "https://jkbose.nic.in/pdf/Islamic-Studies.pdf",
+	"icon": 30,
+	"name": "Islamic Studies"
+}, {
+	"url": "https://jkbose.nic.in/pdf/KASHMIRI11th.pdf",
+	"icon": 31,
+	"name": "Kashmiri"
+}, {
+	"url": "https://jkbose.nic.in/pdf/MANAGEMENTOFRESOURCES.pdf",
+	"icon": 32,
+	"name": "Management of Resources"
+}, {
+	"url": "https://jkbose.nic.in/pdf/Mathematics.pdf",
+	"icon": 33,
+	"name": "Math"
+}, {
+	"url": "https://jkbose.nic.in/pdf/MUSIC.pdf",
+	"icon": 34,
+	"name": "Music"
+}, {
+	"url": "https://jkbose.nic.in/pdf/PERSIAN.pdf",
+	"icon": 35,
+	"name": "Persian"
+}, {
+	"url": "https://jkbose.nic.in/pdf/PHILOSOPHY.pdf",
+	"icon": 36,
+	"name": "Philosophy"
+}, {
+	"url": "https://jkbose.nic.in/pdf/PHYSICALEDUCATION.pdf",
+	"icon": 37,
+	"name": "Physical Educaton"
+}, {
+	"url": "https://jkbose.nic.in/pdf/PHYSICS.pdf",
+	"icon": 38,
+	"name": "Physics"
+}, {
+	"url": "https://jkbose.nic.in/pdf/POLITICALSCIENCE.pdf",
+	"icon": 39,
+	"name": "Political Science"
+}, {
+	"url": "https://jkbose.nic.in/pdf/Psychology.pdf",
+	"icon": 40,
+	"name": "Psychology"
+}, {
+	"url": "https://jkbose.nic.in/pdf/PUBLICADMINISTRATION.pdf",
+	"icon": 41,
+	"name": "Public Adminstration"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thPunjabi.pdf",
+	"icon": 42,
+	"name": "Punjabi"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thSanskrit.pdf",
+	"icon": 43,
+	"name": "Sanskrit"
+}, {
+	"url": "https://jkbose.nic.in/pdf/SOCIOLOGY.pdf",
+	"icon": 44,
+	"name": "Sociology"
+}, {
+	"url": "https://jkbose.nic.in/pdf/STATISTICS.pdf",
+	"icon": 45,
+	"name": "Statistics"
+}, {
+	"url": "https://jkbose.nic.in/pdf/TRAVELTOURISMHOTELMANAGEMENT.pdf",
+	"icon": 46,
+	"name": "Travel \u0026 Tourism Management"
+}, {
+	"url": "https://jkbose.nic.in/pdf/Typewriting-and-Shorthand.pdf",
+	"icon": 47,
+	"name": "Typewriting and Shorthand"
+}, {
+	"url": "https://jkbose.nic.in/pdf/URDU.pdf",
+	"icon": 48,
+	"name": "Urdu"
+}, {
+	"url": "https://jkbose.nic.in/pdf/VedicStudies.pdf",
+	"icon": 49,
+	"name": "Vedic Studies"
+}, {
+	"url": "https://jkbose.nic.in/pdf/11thZOOLOGY.pdf",
+	"icon": 50,
+	"name": "Zoology"
+}, {
+	"url": "https://drive.google.com/file/d/13bEcwXtrP97EmbV-bC6dWqOCyuSr1P9G/view",
+	"icon": 50,
+	"name": "Extra Hindi"
+}
+]
